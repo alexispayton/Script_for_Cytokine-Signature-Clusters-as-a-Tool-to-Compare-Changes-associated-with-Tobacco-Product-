@@ -1,4 +1,4 @@
-# Script_for_Cytokine-Signature-Clusters-as-a-Tool-to-Compare-Changes-associated-with-Tobacco-Product-Use-in-Upper-and-Lower-Airway-Samples
+# Cytokine signature clusters as a tool to compare changes associated with tobacco product use in upper and lower airway samples
 
 This script was generated to support exploratory analyses to determine association between smoking status/ cotinine concentrations and cytokine concentrations. All cytokine compartment analyses in this folder are designated by their figure number or table number in the manuscript in parantheses. In the instance that the files are unable to rendered the NBViewer link can be clicked below. 
 
